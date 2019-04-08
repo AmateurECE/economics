@@ -1,9 +1,10 @@
+# TODO: Update docs for all library functions
 Package: economics
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: Economic utilities
+Version: 1.1
 Date: 2019-03-28
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Ethan D. Twardy
+Maintainer: Ethan D. Twardy <edtwardy@mtu.edu>
+Description: Used for doing basic economic calculations
+License: None
